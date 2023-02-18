@@ -14,4 +14,6 @@ Define the app function /
 
 Write unit tests /
 
-Push your code to a Git repository and share the link
+Push your code to a Git repository and share the link 
+
+To run: mvn test
